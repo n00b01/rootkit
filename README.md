@@ -30,3 +30,6 @@ http://lwn.net/Kernel/LDD3/
 
 ## Authors
 Ivyl and t3hknr.
+
+## Editor 
+G3tech 
